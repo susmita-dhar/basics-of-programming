@@ -1,6 +1,7 @@
 public class PrinterApp {
   public static void main(String[] args) {
-   String creator = "Susmita";
+   //This variable stores the name of the creator
+    String creator = "Susmita";
     double number1 = 5;
     double number2 = 2;
   System.out.println("Printer App");
